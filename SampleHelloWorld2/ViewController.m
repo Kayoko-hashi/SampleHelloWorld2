@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad
 {
+    NSString *str;
+    str = @"Hello,Nexseed";
+    
 }
 
 - (void)didReceiveMemoryWarning
