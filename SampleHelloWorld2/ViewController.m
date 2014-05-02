@@ -19,6 +19,10 @@
     NSString *str;
     str = @"Hello,Nexseed";
     
+    NSInteger num;
+    num = 10;
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
